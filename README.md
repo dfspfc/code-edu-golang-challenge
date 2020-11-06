@@ -1,4 +1,4 @@
-Docker image danielalves/codeeducation
+Docker image: danielalves/codeeducation
 
 Usage:
 
